@@ -16,7 +16,7 @@ if(isset($_POST["register"])){
     $customer_city = $_POST["ccity"];
     $customer_city = $_POST["ccontact"];
     $customer_image = $_POST["cimage"];
-    $user_role = $_POST["urole"];
+    $user_role = 2;
 
     
 
